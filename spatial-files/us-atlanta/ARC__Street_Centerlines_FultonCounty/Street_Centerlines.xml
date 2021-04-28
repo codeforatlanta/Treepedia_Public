@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This dataset represents the centerline of all streets, roads and highways in Fulton County.  Each record represents a street segment between at-grade intersections. Attributes include street name elements, odd and even address ranges, feature type, zip code (left and right) and highway number.The municipalities of Chattahoochee Hills, College Park, East Point, Fairburn, Hapeville, Palmetto, South Fulton, Union City, as well as the Fulton Industrial District (FID) are actively maintained by the Fulton County GIS Division.  The data for Johns Creek, Milton, Alpharetta, Sandy Springs, and Roswell are obtained from the respective cities data portal or REST endpoint and incorporated into this countywide data.  For questions or issues concerning these cities, please contact the owner of the respective data directly.</abstract>
+            <purpose>This dataset is used primarily as a general reference feature in maps and as reference data in locator services.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Transportation</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Fulton 
+County provides the data within these pages for your personal use &amp;quot;as 
+is&amp;quot;. The data are not guaranteed to be accurate, correct, or complete. 
+The feature locations depicted in these maps are approximate and are not
+ necessarily accurate to surveying or engineering standards. The 
+information in these pages should not be used alone for site-specific 
+decision making or for making financial or any other commitments. Fulton
+ County assumes no responsibility for losses resulting from the use 
+these data, even if Fulton County is advised of the possibility of such 
+losses.</useconst>
+        <datacred>Compiled and maintained by the Fulton County Department of Information Technology, GIS Division</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
